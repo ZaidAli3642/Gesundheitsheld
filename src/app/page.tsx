@@ -30,10 +30,10 @@ export default function AccountDeletionPage() {
               <div className="mt-3 flex items-center justify-center">
                 <Mail className="h-5 w-5 text-gray-500 mr-2" />
                 <a
-                  href="mailto:support@gesundheitsheld.in"
+                  href="mailto:hi@gesundheitsheld.in"
                   className="text-blue-600 font-medium hover:underline"
                 >
-                  support@gesundheitsheld.in
+                  hi@gesundheitsheld.in
                 </a>
               </div>
               <div className="mt-4">
